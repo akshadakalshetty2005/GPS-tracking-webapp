@@ -1,16 +1,114 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#  Dev Infosystem GPS Tracker
 
-Currently, two official plugins are available:
+A modern and responsive GPS tracking website designed for vehicle monitoring and fleet management solutions. The platform highlights GPS tracking products and services with an attractive UI and seamless user experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+##  Features
 
-## React Compiler
+- Real-time Vehicle Tracking
+- Fleet Management Solutions
+- Geo-Fencing Alerts
+- Fuel Monitoring System
+- Driver Behavior Analytics
+- Product Showcase Section
+- Responsive Design
+- Contact & Inquiry Forms
+- WhatsApp Integration
+- Modern Landing Page UI
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+##  Tech Stack
 
-## Expanding the ESLint configuration
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Bootstrap / Tailwind CSS
+- Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+##  Project Structure
+
+src/
+├── components/
+├── pages/
+├── assets/
+├── styles/
+├── App.jsx
+├── main.jsx
+
+````
+
+##  Installation
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/dev-infosystem-gps-tracker.git
+````
+
+2. Navigate to the project folder
+
+```bash
+cd dev-infosystem-gps-tracker
+```
+
+3. Install dependencies
+
+```bash
+npm install
+```
+
+4. Start the development server
+
+```bash
+npm run dev
+```
+
+##  Screenshots
+
+Add project screenshots inside the repository and update this section.
+
+##  Key Benefits
+
+* Easy vehicle monitoring
+* Improved fleet efficiency
+* Enhanced security and safety
+* Real-time tracking updates
+* User-friendly interface
+
+##  Future Enhancements
+
+* Live GPS API Integration
+* Admin Dashboard
+* Customer Login Portal
+* Analytics Reports
+* Mobile Application Support
+
+##  Developer
+
+**Rohan Rajendra Mandhare**
+
+Full Stack Developer
+
+### Connect With Me
+
+* GitHub: [https://github.com/your-github-username](https://github.com/your-github-username)
+* LinkedIn: [https://linkedin.com/in/your-linkedin-profile](https://linkedin.com/in/your-linkedin-profile)
+
+ License
+
+This project is licensed under the MIT License.
+
+```
+
+### GitHub Repository About Section
+
+**Description:**
+> Professional GPS Tracking Website for Vehicle Monitoring, Fleet Management, Geo-Fencing, Fuel Monitoring, and Driver Analytics built with React.js.
+
+**Topics:**
+```
+
+reactjs gps-tracking fleet-management vehicle-tracking vite javascript frontend responsive-web-design gps-system
+
+```
+```
